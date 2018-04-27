@@ -1,4 +1,4 @@
-///type convertation
+///type Conversion
 var vint8: Int8 = 34 
 var vint16: Int16 = 434 
 // var vint = vint8+ vint16  // error
